@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8238bbea-9e17-42af-ad42-539ecc08e2d6" name="muur" url="http://localhost/the_wall">
+        <fileTransfer port="0" mountedRoot="C:\MAMP\htdocs\the_wall" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
